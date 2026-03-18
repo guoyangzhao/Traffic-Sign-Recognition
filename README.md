@@ -44,31 +44,29 @@ XXX
 ```
 
 
-
-
 ### Table of Contents
 - [**0. Background**](#background)
   - [Key Challenges](#key-challenges)
   - [Motivation](#motivation)
 - [**1. Datasets**](#1-datasets)
-  - [:one: TS-1M Datasets](#one-ts-1m-datasets)
-  - [:two: Datasets Comparison](#two-datasets-comparison)
+  - [TS-1M Datasets](#one-ts-1m-datasets)
+  - [Datasets Comparison](#two-datasets-comparison)
 - [**2. Modeling**](#2-modeling)
-  - [:one: Classic Supervised Models](#one-classic-supervised-models)
-  - [:two: Self-Supervised Pretrained Models](#two-self-supervised-pretrained-models)
-  - [:three: Vision-Language Models](#three-vision-language-models)
+  - [Classic Supervised Models](#one-classic-supervised-models)
+  - [Self-Supervised Pretrained Models](#two-self-supervised-pretrained-models)
+  - [Vision-Language Models](#three-vision-language-models)
 - [**3. Research of Traffic Sign Recognition**](#3-research-of-traffic-sign-recognition)
 - [**4. Research of Challenge Task**](#4-research-of-challenge-task)
-  - [:one: Cross-Region Recognition](#one-cross-region-recognition)
-  - [:two: Rare-Class Recognition](#two-rare-class-recognition)
-  - [:three: Low-Clarity Recognition](#three-low-clarity-recognition)
-  - [:four: Semantic Understanding](#four-semantic-understanding)
+  - [Cross-Region Recognition](#one-cross-region-recognition)
+  - [Rare-Class Recognition](#two-rare-class-recognition)
+  - [Low-Clarity Recognition](#three-low-clarity-recognition)
+  - [Semantic Understanding](#four-semantic-understanding)
 - [**5. Benchmark Results & Analysis**](#5-benchmark-results--analysis)
-  - [:one: Main Results](#one-main-results)
-  - [:two: Real-World Applications](#two-real-world-applications)
-  - [:three: Effect on Autonomous Driving](#three-effect-on-autonomous-driving)
-
+  - [Main Results](#one-main-results)
+  - [Real-World Applications](#two-real-world-applications)
+  - [Effect on Autonomous Driving](#three-effect-on-autonomous-driving)
 - [**6. Acknowledgements**](#6-acknowledgements)
+
 
 
 # Background
