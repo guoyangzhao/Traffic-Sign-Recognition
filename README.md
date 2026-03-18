@@ -113,16 +113,32 @@ A systematic benchmark is therefore needed to evaluate how models behave under d
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
-| Model | Paper | Venue | Website | 
-|:-:|:-|:-:|:-:|
-||
-| `KITTI` | Are We Ready for Autonomous Driving? The KITTI Vision Benchmark Suite | CVPR 2012 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.cvlibs.net/datasets/kitti/) |
-| `NYUv2` | Indoor Segmentation and Support Inference from RGBD Images | ECCV 2012 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) |
-| `CARLA` | [![arXiv](https://img.shields.io/badge/arXiv-1711.03938-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1711.03938)<br>CARLA: An Open Urban Driving Simulator | CoRL 2017 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://carla.org/) |
-| `SemanticKITTI` | [![arXiv](https://img.shields.io/badge/arXiv-1904.01416-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1904.01416)<br>SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences | ICCV 2019 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://semantic-kitti.org/) |
-| `nuScenes` | [![arXiv](https://img.shields.io/badge/arXiv-1903.11027-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1903.11027)<br>nuScenes: A Multimodal Dataset for Autonomous Driving | CVPR 2020 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.nuscenes.org/) |
-
-
+| Dataset | Region | Classes | Semantic | Examples | Year | Source |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| `STS` | Sverige | 20 | ✓ | 5,582 | 2011 | - |
+| `LISA` | America | 47 | ✓ | 7,855 | 2012 | - |
+| `GTSRB` | Germany | 43 | ✗ | 51,839 | 2013 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://benchmark.ini.rub.de/gtsrb_news.html) |
+| `BelgiumTS` | Belgium | 62 | ✗ | 7,125 | 2014 | - |
+| `TT100K` | China | 127 | ✗ | 30,000 | 2016 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://cg.cs.tsinghua.edu.cn/traffic-sign/) |
+| `RTSD` | Russia | 106 | ✗ | 105,509 | 2016 | - |
+| `BrazilianTS` | Brazilian | 33 | ✓ | 3,351 | 2018 | - |
+| `DFG` | Slovenia | 200 | ✗ | 13,239 | 2019 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.vicos.si/resources/dfg/) |
+| `ARTS` | America | 175 | ✗ | 36,187 | 2019 | - |
+| `CanadaTS` | Canada | 39 | ✓ | 204 | 2019 | - |
+| `PolishTS` | Polish | 92 | ✗ | 21,044 | 2020 | - |
+| `TurkeyTS` | Turkey | 91 | ✗ | 21,249 | 2020 | - |
+| `MTSD` | World | 313 | ✓ | 206,388 | 2020 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.mapillary.com/dataset/trafficsign) |
+| `TSCR` | China | 10 | ✗ | 6,348 | 2021 | - |
+| `CarlaTS` | Germany | 8 | ✓ | 2,977 | 2021 | - |
+| `IndonesiaTS` | Indonesia | 21 | ✓ | 1,800 | 2021 | - |
+| `BritishTS` | British | 8 | ✓ | 2,217 | 2021 | - |
+| `IndiaTS` | India | 85 | ✓ | 5,726 | 2022 | - |
+| `CTSRD` | China | 58 | ✗ | 5,998 | 2023 | - |
+| `VNTS` | Vietnam | 51 | ✗ | 7,784 | 2023 | - |
+| `BanglaTS` | Bangla | 13 | ✓ | 8,386 | 2023 | - |
+| `PTSD` | Iran | 43 | ✓ | 16,421 | 2025 | - |
+| **`TS-1M (Train)`** | **World** | **454** | **✓** | **1,033,947** | **2025** | 🚀 *Ours* |
+| **`TS-1M (Test)`** | **World** | **454** | **✓** | **233,611** | **2025** | 🚀 *Ours* |
 
 
 
