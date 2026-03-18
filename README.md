@@ -268,21 +268,46 @@ A systematic benchmark is therefore needed to evaluate how models behave under d
 
 
 
+
 # 5. Benchmark Results & Analysis
 
 ### :one: Main Results
 
-XXX
+We benchmark a wide range of models on TS-1M, including classical supervised architectures, self-supervised methods, and vision-language models (VLMs).  
+
+Overall, **vision-language models consistently achieve the best performance**, showing clear advantages over both CNN/Transformer-based models and self-supervised approaches.  
+Classical models remain strong baselines, while self-supervised methods provide moderate but less stable improvements.  
+
+These results suggest that **semantic alignment is a key factor** for large-scale and real-world traffic sign recognition.
+
+<p align="center">
+  <img src="doc/fig/result-1.png" width="100%">
+</p>
+
 
 ### :two: Real-World Applications
 
-XXX
+We further validate TS-1M in a real autonomous driving setup using a vehicle equipped with **LiDAR and surround-view cameras**.  
+
+A TS-1M fine-tuned **CLIP model** performs traffic sign recognition, while a **LLaVA model** enables scene-level reasoning to infer driving rules.  
+The recognized signs are then integrated into the LiDAR map with their **semantic attributes and 3D locations**, forming a structured semantic layer.
+
+This demonstrates that TS-1M supports a practical pipeline from **perception to semantic understanding and map integration**.
+
+<p align="center">
+  <img src="doc/fig/real-world.png" width="100%">
+</p>
 
 
 ### :three: Effect on Autonomous Driving
 
-XXX
+TS-1M brings several benefits to autonomous driving systems:
 
+- **Robust recognition in diverse environments** TS-1M-trained models maintain strong performance across diverse environments, including varying road structures and visual conditions.
+- **Enhanced semantic understanding beyond classification** By leveraging vision-language models, traffic sign recognition is extended from pure classification to rule-level understanding, enabling more intelligent decision-making.
+- **Seamless integration with mapping and planning modules** The integration of recognized signs into LiDAR maps forms a semantic traffic sign layer, supporting downstream tasks such as planning and navigation.
+
+Overall, TS-1M enables the development of **semantics-aware and more reliable autonomous driving systems**.
 
 
 
