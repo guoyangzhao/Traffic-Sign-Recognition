@@ -73,7 +73,7 @@ XXX
 
 | | |
 |:-:|:-|
-| <img width="480px" src="doc/fig/ts-1m-cover.png"> | Traffic sign recognition plays a critical role in autonomous driving by providing essential cues for navigation and safety. Despite strong performance on standard benchmarks, existing models often struggle to generalize in real-world environments due to distribution shifts and visual variability. |
+| <img width="600px" src="doc/fig/ts-1m-cover.png"> | Traffic sign recognition plays a critical role in autonomous driving by providing essential cues for navigation and safety. Despite strong performance on standard benchmarks, existing models often struggle to generalize in real-world environments due to distribution shifts and visual variability. |
 | | |
 
 
