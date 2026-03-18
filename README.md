@@ -103,10 +103,21 @@ A systematic benchmark is therefore needed to evaluate how models behave under d
 
 # 1. Datasets
 
-### :one: TS-1M Datasets
+### :one: TS-1M Dataset
 
-> :timer_clock: In chronological order, from the earliest to the latest.
+TS-1M is a large-scale traffic sign dataset built by integrating multiple public datasets and web-collected samples into a unified benchmark.  
+All data are standardized into a consistent taxonomy with **454 classes**, followed by a multi-stage preprocessing pipeline including label normalization, duplicate removal, quality filtering, and manual verification.
 
+<p align="center">
+  <img src="doc/fig/dataset-bulid.png" width="100%">
+</p>
+
+The final dataset contains **~1.26M images**, with **1.03M for training** and **0.23M for testing**, covering diverse regions and road environments.  
+The data distribution follows a realistic **long-tail pattern**, enabling both large-scale recognition and rare-class learning.
+
+<p align="center">
+  <img src="doc/fig/dataset-statistics.png" 100="95%">
+</p>
 
 
 ### :two: Datasets Comparison
