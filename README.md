@@ -1,43 +1,45 @@
 [![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![arXiv](https://img.shields.io/badge/arXiv-2509.07996-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.07996)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.07996-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/)
 ![Visitors](https://komarev.com/ghpvc/?username=worldbench&repo=awesome-3d-4d-world-models&label=Hello,%20Visitor%20&color=yellow&style=social)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/awesome-3d-4d-world-models/pulls)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/guoyangzhao/Traffic-Sign-Recognition/pulls)
 
 # :sunglasses: Traffic Sign Recognition in Autonomous Driving: Dataset, Benchmark, and Field Testing
 
-| <img width="100%" src="docs/figures/teaser.png"> |
+| <img width="100%" src="docs/fig/teaser.png"> |
 |:-:|
 
-This survey reviews state-of-the-art **3D and 4D world models** - systems that learn, predict, and simulate the geometry and dynamics of real environments from multi-modal signals. 
+This project presents **TS-1M**, a large-scale dataset and diagnostic benchmark for traffic sign understanding.
 
-We unify terminology, scope, and evaluations, and organize the space into three complementary paradigms by representation:
+TS-1M contains over **1M images across 454 categories** with unified annotations and diverse real-world conditions. 
+It is designed to evaluate model robustness under **cross-region shifts**, **long-tail distributions**, and **low-clarity scenarios**, while exploring the role of **semantic-enhanced learning**. 
+We further validate its practical value by integrating TS-1M into a real autonomous driving system for perception and semantic reasoning.
+We organize TS-1M around four key aspects:
+
 | | |
 |:-:|:-|
-| <img width="240px" src="docs/figures/icon_videogen.png"> | Learn generative or predictive models from sequential video streams with geometric and temporal constraints. VideoGen focuses on long-horizon consistency, controllability, and scene-level generation, enabling agents to imagine or forecast plausible video rollouts. |
-| <img width="240px" src="docs/figures/icon_occgen.png"> | Model 3D/4D occupancy grids that encode geometry and semantics in voxel space. OccGen provides a physics-consistent scaffold for robust perception, forecasting, and simulation, bridging low-level sensor data and high-level reasoning. |
-| <img width="240px" src="docs/figures/icon_lidargen.png"> | Leverage point cloud sequences from LiDAR sensors to generate or predict geometry-grounded scenes. LiDARGen emphasizes high-fidelity 3D structure, robustness to environment changes, and applications in safety-critical domains such as autonomous driving. |
+| <img width="240px" src="docs/fig/ts-1m.png"> | **Unified Large-Scale Dataset**. 1M+ images with standardized annotations across 454 categories, providing a consistent foundation for traffic sign recognition. |
+| <img width="240px" src="docs/fig/definition.png"> | **Benchmark Across Model Paradigms**. Systematic evaluation of CNNs, transformers, self-supervised, and vision-language models under a unified protocol. |
+| <img width="240px" src="docs/fig/icon_challenge.png"> | **Challenge-Oriented Evaluation**. Dedicated subsets for cross-region, rare-class, and low-clarity scenarios enable detailed robustness analysis. |
+| <img width="240px" src="docs/fig/icon_real.png"> | **Real-World Validation**. Integration with VLM-based reasoning and 3D mapping demonstrates end-to-end perception-to-decision capability. |
 | | |
 
-For more details, kindly refer to our [paper](https://huggingface.co/papers/2509.07996) and [project page](https://worldbench.github.io/survey). :rocket:
+For more details, kindly refer to our [paper](https://XXX) and [project page](https://guoyangzhao.github.io/projects/ts1m/). :rocket:
 
 
 ### :books: Citation 
 
 If you find this work helpful for your research, please kindly consider citing our papers:
 ```bib
-@article{survey_3d_4d_world_models,
-    title   = {{3D} and {4D} World Modeling: A Survey},
-    author  = {Lingdong Kong and Wesley Yang and Jianbiao Mei and Youquan Liu and Ao Liang and Dekai Zhu and Dongyue Lu and Wei Yin and Xiaotao Hu and Mingkai Jia and Junyuan Deng and Kaiwen Zhang and Yang Wu and Tianyi Yan and Shenyuan Gao and Song Wang and Linfeng Li and Liang Pan and Yong Liu and Jianke Zhu and Wei Tsang Ooi and Steven C. H. Hoi and Ziwei Liu},
-    journal = {arXiv preprint arXiv:2509.07996},
-    year    = {2025}
-}
+XXX
 ```
 ```bibtex
-@article{worldlens,
-    title   = {{WorldLens}: Full-Spectrum Evaluations of Driving World Models in Real World},
-    author  = {Ao Liang and Lingdong Kong and Tianyi Yan and Hongsi Liu and Wesley Yang and Ziqi Huang and Wei Yin and Jialong Zuo and Yixuan Hu and Dekai Zhu and Dongyue Lu and Youquan Liu and Guangfeng Jiang and Linfeng Li and Xiangtai Li and Long Zhuo and Lai Xing Ng and Benoit R. Cottereau and Changxin Gao and Liang Pan and Wei Tsang Ooi and Ziwei Liu},
-    journal = {arXiv preprint arXiv:2512.10958},
-    year    = {2025}
+@inproceedings{zhao2025tsclip,
+  title={TSCLIP: Robust CLIP fine-tuning for worldwide cross-regional traffic sign recognition},
+  author={Zhao, Guoyang and Ma, Fulong and Qi, Weiqing and Zhang, Chenguang and Liu, Yuxuan and Liu, Ming and Ma, Jun},
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={3846--3852},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
