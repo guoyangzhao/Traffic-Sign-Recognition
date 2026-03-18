@@ -17,10 +17,10 @@ We organize TS-1M around four key aspects:
 
 | | |
 |:-:|:-|
-| <img width="240px" src="doc/fig/ts-1m.png"> | **Unified Large-Scale Dataset**. 1M+ images with standardized annotations across 454 categories, providing a consistent foundation for traffic sign recognition. |
-| <img width="240px" src="doc/fig/definition.png"> | **Benchmark Across Model Paradigms**. Systematic evaluation of CNNs, transformers, self-supervised, and vision-language models under a unified protocol. |
-| <img width="240px" src="doc/fig/icon_challenge.png"> | **Challenge-Oriented Evaluation**. Dedicated subsets for cross-region, rare-class, and low-clarity scenarios enable detailed robustness analysis. |
-| <img width="240px" src="doc/fig/icon_real.png"> | **Real-World Validation**. Integration with VLM-based reasoning and 3D mapping demonstrates end-to-end perception-to-decision capability. |
+| <img width="120px" src="doc/fig/ts-1m.png"> | **Unified Large-Scale Dataset**. 1M+ images with standardized annotations across 454 categories, providing a consistent foundation for traffic sign recognition. |
+| <img width="120px" src="doc/fig/definition.png"> | **Benchmark Across Model Paradigms**. Systematic evaluation of CNNs, transformers, self-supervised, and vision-language models under a unified protocol. |
+| <img width="120px" src="doc/fig/icon-challenge.png"> | **Challenge-Oriented Evaluation**. Dedicated subsets for cross-region, rare-class, and low-clarity scenarios enable detailed robustness analysis. |
+| <img width="120px" src="doc/fig/icon-real.png"> | **Real-World Validation**. Integration with VLM-based reasoning and 3D mapping demonstrates end-to-end perception-to-decision capability. |
 | | |
 
 For more details, kindly refer to our [paper](https://XXX) and [project page](https://guoyangzhao.github.io/projects/ts1m/). :rocket:
