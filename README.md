@@ -5,7 +5,7 @@
 
 # :sunglasses: Traffic Sign Recognition in Autonomous Driving: Dataset, Benchmark, and Field Testing
 
-| <img width="100%" src="docs/fig/teaser.png"> |
+| <img width="100%" src="doc/fig/teaser.png"> |
 |:-:|
 
 This project presents **TS-1M**, a large-scale dataset and diagnostic benchmark for traffic sign understanding.
