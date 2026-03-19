@@ -206,15 +206,18 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
-| Model | Paper | Venue | Website | GitHub | 
-|:-:|:-|:-:|:-:|:-:|
+| Paper | Venue | Year | Link |
+|:-|:-:|:-:|:-:|
 ||
-| `SSD` | [![arXiv](https://img.shields.io/badge/arXiv-2301.00527-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2301.00527)<br>Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data | arXiv 2023 | - | [![GitHub](https://img.shields.io/github/stars/zoomin-lee/scene-scale-diffusion)](https://github.com/zoomin-lee/scene-scale-diffusion) |
-| `SemCity` | [![arXiv](https://img.shields.io/badge/arXiv-2403.07773-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.07773)<br>SemCity: Semantic Scene Generation with Triplane Diffusion | CVPR 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://sglab.kaist.ac.kr/SemCity/) |[![GitHub](https://img.shields.io/github/stars/zoomin-lee/SemCity)](https://github.com/zoomin-lee/SemCity) |
-| `WoVoGen` | [![arXiv](https://img.shields.io/badge/arXiv-2312.02934-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.02934)<br>WoVoGen: World Volume-Aware Diffusion for Controllable Multi-Camera Driving Scene Generation | ECCV 2024 | - | [![GitHub](https://img.shields.io/github/stars/fudan-zvg/WoVoGen)](https://github.com/fudan-zvg/WoVoGen) |
+| Traffic sign recognition with lightweight two-stage model in complex scenes | T-ITS | 2020 | [Link]() |
+| Traffic sign detection and recognition in multiimages using a fusion model with YOLO and VGG network | T-ITS | 2022 | [Link]() |
+| Traffic sign recognition based on semantic scene understanding and structural traffic sign location | T-ITS | 2022 | [Link]() |
+| Toward effective traffic sign detection via two-stage fusion neural networks | T-ITS | 2024 | [Link]() |
+| A More Balanced Loss-Reweighting Method for Long-Tailed Traffic Sign Detection and Recognition | T-ITS | 2024 | [Link]() |
+| A Semi-Supervised Learning Framework Combining CNN and Multi-scale Transformer for Traffic Sign Detection and Recognition | IoT-J | 2024 | [Link]() |
+| Road traffic sign recognition algorithm based on cascade attention-modulation fusion mechanism | T-ITS | 2024 | [Link]() |
+| Adapting Image Classification Adversarial Detection Methods for Traffic Sign Classification in Autonomous Vehicles: A Comparative Study | T-ITS | 2024 | [Link]() |
 ||
-
-
 
 
 
