@@ -225,49 +225,54 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
-| Model | Paper | Venue | Website | GitHub | 
-|:-:|:-|:-:|:-:|:-:|
+| Paper | Venue | Year | Link |
+|:-|:-:|:-:|:-:|
 ||
-| `SSD` | [![arXiv](https://img.shields.io/badge/arXiv-2301.00527-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2301.00527)<br>Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data | arXiv 2023 | - | [![GitHub](https://img.shields.io/github/stars/zoomin-lee/scene-scale-diffusion)](https://github.com/zoomin-lee/scene-scale-diffusion) |
-| `WoVoGen` | [![arXiv](https://img.shields.io/badge/arXiv-2312.02934-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.02934)<br>WoVoGen: World Volume-Aware Diffusion for Controllable Multi-Camera Driving Scene Generation | ECCV 2024 | - | [![GitHub](https://img.shields.io/github/stars/fudan-zvg/WoVoGen)](https://github.com/fudan-zvg/WoVoGen) |
+| Sustainable and transferable traffic sign recognition for intelligent transportation systems | T-ITS | 2022 | [Link]() |
+| SeqNet: Sequential networks for one-shot traffic sign recognition with transfer learning | T-ITS | 2024 | [Link]() |
+| Indian Traffic Sign Detection and Classification Through a Unified Framework | T-ITS | 2024 | [Link]() |
+| TSCLIP: Robust CLIP fine-tuning for worldwide cross-regional traffic sign recognition | ICRA | 2025 | [Link]() |
 ||
-
-
 
 ### :two: Rare-Class Recognition
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
-| Model | Paper | Venue | Website | GitHub | 
-|:-:|:-|:-:|:-:|:-:|
+| Paper | Venue | Year | Link |
+|:-|:-:|:-:|:-:|
 ||
-| `Emergent-Occ` | [![arXiv](https://img.shields.io/badge/arXiv-2210.01917-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.01917)<br>Differentiable Raycasting for Self-supervised Occupancy Forecasting | ECCV 2022 | - | [![GitHub](https://img.shields.io/github/stars/tarashakhurana/emergent-occ-forecasting)](https://github.com/tarashakhurana/emergent-occ-forecasting) |
+| Long-tailed traffic sign detection using attentive fusion and hierarchical group softmax | T-ITS | 2022 | [Link]() |
+| Vehicle-mounted adaptive traffic sign detector for small-sized signs in multiple working conditions | T-ITS | 2023 | [Link]() |
+| A More Balanced Loss-Reweighting Method for Long-Tailed Traffic Sign Detection and Recognition | T-ITS | 2024 | [Link]() |
+| DK-Former: A Hybrid Structure of Deep Kernel Gaussian Process Transformer Network for Enhanced Traffic Sign Recognition | T-ITS | 2024 | [Link]() |
 ||
-
 
 ### :three: Low-Clarity Recognition
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
-| Model | Paper | Venue | Website | GitHub | 
-|:-:|:-|:-:|:-:|:-:|
+| Paper | Venue | Year | Link |
+|:-|:-:|:-:|:-:|
 ||
-| `Emergent-Occ` | [![arXiv](https://img.shields.io/badge/arXiv-2210.01917-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.01917)<br>Differentiable Raycasting for Self-supervised Occupancy Forecasting | ECCV 2022 | - | [![GitHub](https://img.shields.io/github/stars/tarashakhurana/emergent-occ-forecasting)](https://github.com/tarashakhurana/emergent-occ-forecasting) |
+| DFR-TSD: A deep learning based framework for robust traffic sign detection under challenging weather conditions | T-ITS | 2021 | [Link]() |
+| GLARE: A dataset for traffic sign detection in sun glare | T-ITS | 2023 | [Link]() |
+| Natural Light Can Also be Dangerous: Traffic Sign Misinterpretation Under Adversarial Natural Light Attacks | WACV | 2024 | [Link]() |
+| A robust real-time anchor-free traffic sign detector with one-level feature | TETCI | 2024 | [Link]() |
+| A Semi-Supervised Learning Framework Combining CNN and Multi-scale Transformer for Traffic Sign Detection and Recognition | IoT-J | 2024 | [Link]() |
 ||
-
-
 
 ### :four: Semantic Understanding
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
-| Model | Paper | Venue | Website | GitHub | 
-|:-:|:-|:-:|:-:|:-:|
+| Paper | Venue | Year | Link |
+|:-|:-:|:-:|:-:|
 ||
-| `Emergent-Occ` | [![arXiv](https://img.shields.io/badge/arXiv-2210.01917-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.01917)<br>Differentiable Raycasting for Self-supervised Occupancy Forecasting | ECCV 2022 | - | [![GitHub](https://img.shields.io/github/stars/tarashakhurana/emergent-occ-forecasting)](https://github.com/tarashakhurana/emergent-occ-forecasting) |
+| Sustainable and transferable traffic sign recognition for intelligent transportation systems | T-ITS | 2022 | [Link]() |
+| Traffic sign interpretation via natural language description | T-ITS | 2024 | [Link]() |
+| Real-Time Text Detection With Similar Mask in Traffic, Industrial, and Natural Scenes | T-ITS | 2024 | [Link]() |
+| TSCLIP: Robust CLIP fine-tuning for worldwide cross-regional traffic sign recognition | ICRA | 2025 | [Link]() |
 ||
-
-
 
 
 # 5. Benchmark Results & Analysis
