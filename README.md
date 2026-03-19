@@ -132,26 +132,24 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | `BelgiumTS` | Belgium | 62 | ✗ | 7,125 | 2014 | - |
 | `TT100K` | China | 127 | ✗ | 30,000 | 2016 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://cg.cs.tsinghua.edu.cn/traffic-sign/) |
 | `RTSD` | Russia | 106 | ✗ | 105,509 | 2016 | - |
-| `BrazilianTS` | Brazilian | 33 | ✓ | 3,351 | 2018 | - |
+| `BrazilianTS` | Brazilian | 33 | ✓ | 3,351 | 2018 | [![GitHub](https://img.shields.io/badge/Data-GitHub-black?style=flat-square&logo=github)](https://github.com/hugos94/traffic-signs-database) |
 | `DFG` | Slovenia | 200 | ✗ | 13,239 | 2019 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.vicos.si/resources/dfg/) |
 | `ARTS` | America | 175 | ✗ | 36,187 | 2019 | - |
-| `CanadaTS` | Canada | 39 | ✓ | 204 | 2019 | - |
-| `PolishTS` | Polish | 92 | ✗ | 21,044 | 2020 | - |
-| `TurkeyTS` | Turkey | 91 | ✗ | 21,249 | 2020 | - |
+| `CanadaTS` | Canada | 39 | ✓ | 204 | 2019 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/stavanjoshi/road-signs-in-canada) |
+| `PolishTS` | Polish | 92 | ✗ | 21,044 | 2020 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/kasia12345/polish-traffic-signs-dataset) |
+| `TurkeyTS` | Turkey | 91 | ✗ | 21,249 | 2020 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/erdicem/traffic-sign-images-from-turkey) |
 | `MTSD` | World | 313 | ✓ | 206,388 | 2020 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.mapillary.com/dataset/trafficsign) |
-| `TSCR` | China | 10 | ✗ | 6,348 | 2021 | - |
-| `CarlaTS` | Germany | 8 | ✓ | 2,977 | 2021 | - |
-| `IndonesiaTS` | Indonesia | 21 | ✓ | 1,800 | 2021 | - |
-| `BritishTS` | British | 8 | ✓ | 2,217 | 2021 | - |
-| `IndiaTS` | India | 85 | ✓ | 5,726 | 2022 | - |
-| `CTSRD` | China | 58 | ✗ | 5,998 | 2023 | - |
-| `VNTS` | Vietnam | 51 | ✗ | 7,784 | 2023 | - |
+| `TSCR` | China | 10 | ✗ | 6,348 | 2021 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/wjybuqi/traffic-sign-classification-and-recognition/data) |
+| `CarlaTS` | Germany | 8 | ✓ | 2,977 | 2021 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/sachsene/carla-traffic-signs-images) |
+| `IndonesiaTS` | Indonesia | 21 | ✓ | 1,800 | 2021 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/cakrulgaming/indonesia-traffic-sign) |
+| `BritishTS` | British | 8 | ✓ | 2,217 | 2021 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/angeliquecaballa/british-columbia-traffic-signs) |
+| `IndiaTS` | India | 85 | ✓ | 5,726 | 2022 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/sarangdilipjodh/indian-traffic-signs-prediction85-classes) |
+| `CTSRD` | China | 58 | ✗ | 5,998 | 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://nlpr.ia.ac.cn/pal/trafficdata/recognition.html) |
+| `VNTS` | Vietnam | 51 | ✗ | 7,784 | 2023 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/maitam/vietnamese-traffic-signs) |
 | `BanglaTS` | Bangla | 13 | ✓ | 8,386 | 2023 | - |
 | `PTSD` | Iran | 43 | ✓ | 16,421 | 2025 | - |
 | **`TS-1M (Train)`** | **World** | **454** | **✓** | **1,033,947** | **2025** | 🚀 *Ours* |
 | **`TS-1M (Test)`** | **World** | **454** | **✓** | **233,611** | **2025** | 🚀 *Ours* |
-
-
 
 
 # 2. Modeling
