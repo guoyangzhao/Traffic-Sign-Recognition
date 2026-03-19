@@ -207,16 +207,21 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | Paper | Venue | Year | Link |
 |:-|:-:|:-:|:-:|
 ||
-| Traffic sign recognition with lightweight two-stage model in complex scenes | T-ITS | 2020 | [![IEEE](https://img.shields.io/badge/IEEE-9194316-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9194316) |
-| Traffic sign detection and recognition in multiimages using a fusion model with YOLO and VGG network | T-ITS | 2022 | [![IEEE](https://img.shields.io/badge/IEEE-9766167-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9766167) |
-| Traffic sign recognition based on semantic scene understanding and structural traffic sign location | T-ITS | 2022 | [![IEEE](https://img.shields.io/badge/IEEE-9700482-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9700482) |
-| Toward effective traffic sign detection via two-stage fusion neural networks | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10474579-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10474579) |
-| A More Balanced Loss-Reweighting Method for Long-Tailed Traffic Sign Detection and Recognition | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10689462-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10689462) |
-| A Semi-Supervised Learning Framework Combining CNN and Multi-scale Transformer for Traffic Sign Detection and Recognition | IoT-J | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10478909-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10478909) |
-| Road traffic sign recognition algorithm based on cascade attention-modulation fusion mechanism | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10637247-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10637247) |
-| Adapting Image Classification Adversarial Detection Methods for Traffic Sign Classification in Autonomous Vehicles: A Comparative Study | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10623847-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10623847) |
+| Traffic sign recognition with lightweight two-stage model in complex scenes | T-ITS | 2020 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/9194316) |
+| Traffic sign detection and recognition in multiimages using a fusion model with YOLO and VGG network | T-ITS | 2022 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/9766167) |
+| Traffic sign recognition based on semantic scene understanding and structural traffic sign location | T-ITS | 2022 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/9700482) |
+| Toward effective traffic sign detection via two-stage fusion neural networks | T-ITS | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10474579) |
+| A More Balanced Loss-Reweighting Method for Long-Tailed Traffic Sign Detection and Recognition | T-ITS | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10689462) |
+| A Semi-Supervised Learning Framework Combining CNN and Multi-scale Transformer for Traffic Sign Detection and Recognition | IoT-J | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10478909) |
+| Road traffic sign recognition algorithm based on cascade attention-modulation fusion mechanism | T-ITS | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10637247) |
+| Adapting Image Classification Adversarial Detection Methods for Traffic Sign Classification in Autonomous Vehicles: A Comparative Study | T-ITS | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10623847) |
+| Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map | CVPR | 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://openaccess.thecvf.com/content/CVPR2025/html/Chang_Driving_by_the_Rules_A_Benchmark_for_Integrating_Traffic_Sign_CVPR_2025_paper.html) |
+| The Mapillary Traffic Sign Dataset for Detection and Classification on a Global Scale | ECCV | 2020 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://arxiv.org/abs/1909.04422) |
+| Traffic-Sign Detection and Classification in the Wild | CVPR | 2016 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.html) |
+| Robust Physical-World Attacks on Deep Learning Visual Classification | CVPR | 2018 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://openaccess.thecvf.com/content_cvpr_2018/html/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.html) |
+| A Practical and Highly Optimized Convolutional Neural Network for Classifying Traffic Signs in Real-Time | IJCV | 2017 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://link.springer.com/article/10.1007/s11263-016-0955-9) |
+| Evaluating and Bench-marking Object Detection Models for Traffic Sign and Traffic Light Datasets | ACCVW | 2022 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://openaccess.thecvf.com/content/ACCV2022W/DLSOD/papers/Mishra_Evaluating_and_Bench-marking_Object_Detection_Models_for_Traffic_Sign_and_ACCVW_2022_paper.pdf) |
 ||
-
 
 
 # 4. Research of Challenge Task
@@ -228,10 +233,11 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | Paper | Venue | Year | Link |
 |:-|:-:|:-:|:-:|
 ||
-| Sustainable and transferable traffic sign recognition for intelligent transportation systems | T-ITS | 2022 | [![IEEE](https://img.shields.io/badge/IEEE-9931533-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9931533) |
-| SeqNet: Sequential networks for one-shot traffic sign recognition with transfer learning | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10689469-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10689469) |
-| Indian Traffic Sign Detection and Classification Through a Unified Framework | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10562197-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10562197) |
-| TSCLIP: Robust CLIP fine-tuning for worldwide cross-regional traffic sign recognition | ICRA | 2025 | [![IEEE](https://img.shields.io/badge/IEEE-11127563-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/11127563) |
+| Sustainable and transferable traffic sign recognition for intelligent transportation systems | T-ITS | 2022 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/9931533) |
+| SeqNet: Sequential networks for one-shot traffic sign recognition with transfer learning | T-ITS | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10689469) |
+| Indian Traffic Sign Detection and Classification Through a Unified Framework | T-ITS | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10562197) |
+| TSCLIP: Robust CLIP fine-tuning for worldwide cross-regional traffic sign recognition | ICRA | 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/11127563) |
+| Cross-Country Traffic Sign Understanding via Attention Enhanced Unsupervised Domain Adaptation | ICITE | 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10733849/) |
 ||
 
 ### :two: Rare-Class Recognition
@@ -241,10 +247,11 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | Paper | Venue | Year | Link |
 |:-|:-:|:-:|:-:|
 ||
-| Long-tailed traffic sign detection using attentive fusion and hierarchical group softmax | T-ITS | 2022 | [![IEEE](https://img.shields.io/badge/IEEE-9870750-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9870750) |
-| Vehicle-mounted adaptive traffic sign detector for small-sized signs in multiple working conditions | T-ITS | 2023 | [![IEEE](https://img.shields.io/badge/IEEE-10247097-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10247097) |
-| A More Balanced Loss-Reweighting Method for Long-Tailed Traffic Sign Detection and Recognition | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10689462-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10689462) |
-| DK-Former: A Hybrid Structure of Deep Kernel Gaussian Process Transformer Network for Enhanced Traffic Sign Recognition | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10623902-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10623902) |
+| Long-tailed traffic sign detection using attentive fusion and hierarchical group softmax | T-ITS | 2022 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/9870750) |
+| Vehicle-mounted adaptive traffic sign detector for small-sized signs in multiple working conditions | T-ITS | 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10247097) |
+| A More Balanced Loss-Reweighting Method for Long-Tailed Traffic Sign Detection and Recognition | T-ITS | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10689462) |
+| DK-Former: A Hybrid Structure of Deep Kernel Gaussian Process Transformer Network for Enhanced Traffic Sign Recognition | T-ITS | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10623902) |
+| Cross-Domain Few-Shot In-Context Learning For Enhancing Traffic Sign Recognition | ICIP | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10647129) |
 ||
 
 ### :three: Low-Clarity Recognition
@@ -254,11 +261,13 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | Paper | Venue | Year | Link |
 |:-|:-:|:-:|:-:|
 ||
-| DFR-TSD: A deep learning based framework for robust traffic sign detection under challenging weather conditions | T-ITS | 2021 | [![IEEE](https://img.shields.io/badge/IEEE-9345465-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9345465) |
-| GLARE: A Dataset for Traffic Sign Detection in Sun Glare | T-ITS | 2023 | [![IEEE](https://img.shields.io/badge/IEEE-10197287-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10197287) |
-| Natural Light Can Also be Dangerous: Traffic Sign Misinterpretation Under Adversarial Natural Light Attacks | WACV | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10483842-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10483842) |
-| A robust real-time anchor-free traffic sign detector with one-level feature | TETCI | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10400064-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10400064) |
-| A Semi-Supervised Learning Framework Combining CNN and Multi-scale Transformer for Traffic Sign Detection and Recognition | IoT-J | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10478909-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10478909) |
+| DFR-TSD: A deep learning based framework for robust traffic sign detection under challenging weather conditions | T-ITS | 2021 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/9345465) |
+| GLARE: A Dataset for Traffic Sign Detection in Sun Glare | T-ITS | 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10197287) |
+| Natural Light Can Also be Dangerous: Traffic Sign Misinterpretation Under Adversarial Natural Light Attacks | WACV | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10483842) |
+| A robust real-time anchor-free traffic sign detector with one-level feature | TETCI | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10400064) |
+| A Semi-Supervised Learning Framework Combining CNN and Multi-scale Transformer for Traffic Sign Detection and Recognition | IoT-J | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10478909) |
+| Traffic Sign Recognition Under Visual Perturbations: Shadows, Light Patches, and Simulated Obstructions | CVPRW | 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://openaccess.thecvf.com/content/CVPR2025W/SAIAD/papers/Khan_Traffic_Sign_Recognition_Under_Visual_Perturbations_Shadows_Light_Patches_and_CVPRW_2025_paper.pdf) |
+| Attention-Aware Temporal Adversarial Shadows on Traffic Sign Sequences | CVPRW | 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://openaccess.thecvf.com/content/CVPR2025W/AdvML/html/MohajerAnsari_Attention-Aware_Temporal_Adversarial_Shadows_on_Traffic_Sign_Sequences_CVPRW_2025_paper.html) |
 ||
 
 ### :four: Semantic Understanding
@@ -268,10 +277,12 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | Paper | Venue | Year | Link |
 |:-|:-:|:-:|:-:|
 ||
-| Sustainable and transferable traffic sign recognition for intelligent transportation systems | T-ITS | 2022 | [![IEEE](https://img.shields.io/badge/IEEE-9931533-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9931533) |
-| Traffic sign interpretation via natural language description | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10609794-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10609794) |
-| Real-Time Text Detection With Similar Mask in Traffic, Industrial, and Natural Scenes | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-3485061-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/3485061) |
-| TSCLIP: Robust CLIP fine-tuning for worldwide cross-regional traffic sign recognition | ICRA | 2025 | [![IEEE](https://img.shields.io/badge/IEEE-11127563-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/11127563) |
+| Sustainable and transferable traffic sign recognition for intelligent transportation systems | T-ITS | 2022 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/9931533) |
+| Traffic sign interpretation via natural language description | T-ITS | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/10609794) |
+| Real-Time Text Detection With Similar Mask in Traffic, Industrial, and Natural Scenes | T-ITS | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/3485061) |
+| TSCLIP: Robust CLIP fine-tuning for worldwide cross-regional traffic sign recognition | ICRA | 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ieeexplore.ieee.org/document/11127563) |
+| Mapillary Vistas Validation for Fine-Grained Traffic Signs: A Benchmark Revealing Vision-Language Model Limitations | ICCVW | 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://openaccess.thecvf.com/content/ICCV2025W/DataCV/html/Garg_Mapillary_Vistas_Validation_for_Fine-Grained_Traffic_Signs_A_Benchmark_Revealing_ICCVW_2025_paper.html) |
+| SafeRoute: Enhancing Traffic Scene Understanding via a Unified Deep Learning and Multimodal LLM | ICCVW | 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://openaccess.thecvf.com/content/ICCV2025W/WDFM-AD/papers/Shaw_SafeRoute_Enhancing_Traffic_Scene_Understanding_via_a_Unified_Deep_Learning_ICCVW_2025_paper.pdf) |
 ||
 
 
