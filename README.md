@@ -207,14 +207,14 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | Paper | Venue | Year | Link |
 |:-|:-:|:-:|:-:|
 ||
-| Traffic sign recognition with lightweight two-stage model in complex scenes | T-ITS | 2020 | [Link]() |
-| Traffic sign detection and recognition in multiimages using a fusion model with YOLO and VGG network | T-ITS | 2022 | [Link]() |
-| Traffic sign recognition based on semantic scene understanding and structural traffic sign location | T-ITS | 2022 | [Link]() |
-| Toward effective traffic sign detection via two-stage fusion neural networks | T-ITS | 2024 | [Link]() |
-| A More Balanced Loss-Reweighting Method for Long-Tailed Traffic Sign Detection and Recognition | T-ITS | 2024 | [Link]() |
-| A Semi-Supervised Learning Framework Combining CNN and Multi-scale Transformer for Traffic Sign Detection and Recognition | IoT-J | 2024 | [Link]() |
-| Road traffic sign recognition algorithm based on cascade attention-modulation fusion mechanism | T-ITS | 2024 | [Link]() |
-| Adapting Image Classification Adversarial Detection Methods for Traffic Sign Classification in Autonomous Vehicles: A Comparative Study | T-ITS | 2024 | [Link]() |
+| Traffic sign recognition with lightweight two-stage model in complex scenes | T-ITS | 2020 | [![IEEE](https://img.shields.io/badge/IEEE-9194316-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9194316) |
+| Traffic sign detection and recognition in multiimages using a fusion model with YOLO and VGG network | T-ITS | 2022 | [![IEEE](https://img.shields.io/badge/IEEE-9766167-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9766167) |
+| Traffic sign recognition based on semantic scene understanding and structural traffic sign location | T-ITS | 2022 | [![IEEE](https://img.shields.io/badge/IEEE-9700482-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9700482) |
+| Toward effective traffic sign detection via two-stage fusion neural networks | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10474579-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10474579) |
+| A More Balanced Loss-Reweighting Method for Long-Tailed Traffic Sign Detection and Recognition | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10689462-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10689462) |
+| A Semi-Supervised Learning Framework Combining CNN and Multi-scale Transformer for Traffic Sign Detection and Recognition | IoT-J | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10478909-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10478909) |
+| Road traffic sign recognition algorithm based on cascade attention-modulation fusion mechanism | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10637247-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10637247) |
+| Adapting Image Classification Adversarial Detection Methods for Traffic Sign Classification in Autonomous Vehicles: A Comparative Study | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10623847-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10623847) |
 ||
 
 
@@ -228,10 +228,10 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | Paper | Venue | Year | Link |
 |:-|:-:|:-:|:-:|
 ||
-| Sustainable and transferable traffic sign recognition for intelligent transportation systems | T-ITS | 2022 | [Link]() |
-| SeqNet: Sequential networks for one-shot traffic sign recognition with transfer learning | T-ITS | 2024 | [Link]() |
-| Indian Traffic Sign Detection and Classification Through a Unified Framework | T-ITS | 2024 | [Link]() |
-| TSCLIP: Robust CLIP fine-tuning for worldwide cross-regional traffic sign recognition | ICRA | 2025 | [Link]() |
+| Sustainable and transferable traffic sign recognition for intelligent transportation systems | T-ITS | 2022 | [![IEEE](https://img.shields.io/badge/IEEE-9931533-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9931533) |
+| SeqNet: Sequential networks for one-shot traffic sign recognition with transfer learning | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10689469-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10689469) |
+| Indian Traffic Sign Detection and Classification Through a Unified Framework | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10562197-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10562197) |
+| TSCLIP: Robust CLIP fine-tuning for worldwide cross-regional traffic sign recognition | ICRA | 2025 | [![IEEE](https://img.shields.io/badge/IEEE-11127563-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/11127563) |
 ||
 
 ### :two: Rare-Class Recognition
@@ -241,10 +241,10 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | Paper | Venue | Year | Link |
 |:-|:-:|:-:|:-:|
 ||
-| Long-tailed traffic sign detection using attentive fusion and hierarchical group softmax | T-ITS | 2022 | [Link]() |
-| Vehicle-mounted adaptive traffic sign detector for small-sized signs in multiple working conditions | T-ITS | 2023 | [Link]() |
-| A More Balanced Loss-Reweighting Method for Long-Tailed Traffic Sign Detection and Recognition | T-ITS | 2024 | [Link]() |
-| DK-Former: A Hybrid Structure of Deep Kernel Gaussian Process Transformer Network for Enhanced Traffic Sign Recognition | T-ITS | 2024 | [Link]() |
+| Long-tailed traffic sign detection using attentive fusion and hierarchical group softmax | T-ITS | 2022 | [![IEEE](https://img.shields.io/badge/IEEE-9870750-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9870750) |
+| Vehicle-mounted adaptive traffic sign detector for small-sized signs in multiple working conditions | T-ITS | 2023 | [![IEEE](https://img.shields.io/badge/IEEE-10247097-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10247097) |
+| A More Balanced Loss-Reweighting Method for Long-Tailed Traffic Sign Detection and Recognition | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10689462-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10689462) |
+| DK-Former: A Hybrid Structure of Deep Kernel Gaussian Process Transformer Network for Enhanced Traffic Sign Recognition | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10623902-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10623902) |
 ||
 
 ### :three: Low-Clarity Recognition
@@ -254,11 +254,11 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | Paper | Venue | Year | Link |
 |:-|:-:|:-:|:-:|
 ||
-| DFR-TSD: A deep learning based framework for robust traffic sign detection under challenging weather conditions | T-ITS | 2021 | [Link]() |
-| GLARE: A dataset for traffic sign detection in sun glare | T-ITS | 2023 | [Link]() |
-| Natural Light Can Also be Dangerous: Traffic Sign Misinterpretation Under Adversarial Natural Light Attacks | WACV | 2024 | [Link]() |
-| A robust real-time anchor-free traffic sign detector with one-level feature | TETCI | 2024 | [Link]() |
-| A Semi-Supervised Learning Framework Combining CNN and Multi-scale Transformer for Traffic Sign Detection and Recognition | IoT-J | 2024 | [Link]() |
+| DFR-TSD: A deep learning based framework for robust traffic sign detection under challenging weather conditions | T-ITS | 2021 | [![IEEE](https://img.shields.io/badge/IEEE-9345465-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9345465) |
+| GLARE: A Dataset for Traffic Sign Detection in Sun Glare | T-ITS | 2023 | [![IEEE](https://img.shields.io/badge/IEEE-10197287-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10197287) |
+| Natural Light Can Also be Dangerous: Traffic Sign Misinterpretation Under Adversarial Natural Light Attacks | WACV | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10483842-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10483842) |
+| A robust real-time anchor-free traffic sign detector with one-level feature | TETCI | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10400064-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10400064) |
+| A Semi-Supervised Learning Framework Combining CNN and Multi-scale Transformer for Traffic Sign Detection and Recognition | IoT-J | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10478909-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10478909) |
 ||
 
 ### :four: Semantic Understanding
@@ -268,10 +268,10 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | Paper | Venue | Year | Link |
 |:-|:-:|:-:|:-:|
 ||
-| Sustainable and transferable traffic sign recognition for intelligent transportation systems | T-ITS | 2022 | [Link]() |
-| Traffic sign interpretation via natural language description | T-ITS | 2024 | [Link]() |
-| Real-Time Text Detection With Similar Mask in Traffic, Industrial, and Natural Scenes | T-ITS | 2024 | [Link]() |
-| TSCLIP: Robust CLIP fine-tuning for worldwide cross-regional traffic sign recognition | ICRA | 2025 | [Link]() |
+| Sustainable and transferable traffic sign recognition for intelligent transportation systems | T-ITS | 2022 | [![IEEE](https://img.shields.io/badge/IEEE-9931533-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/9931533) |
+| Traffic sign interpretation via natural language description | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-10609794-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/10609794) |
+| Real-Time Text Detection With Similar Mask in Traffic, Industrial, and Natural Scenes | T-ITS | 2024 | [![IEEE](https://img.shields.io/badge/IEEE-3485061-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/3485061) |
+| TSCLIP: Robust CLIP fine-tuning for worldwide cross-regional traffic sign recognition | ICRA | 2025 | [![IEEE](https://img.shields.io/badge/IEEE-11127563-006699?style=flat-square&logo=ieee)](https://ieeexplore.ieee.org/document/11127563) |
 ||
 
 
