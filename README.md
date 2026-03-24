@@ -25,6 +25,16 @@ We organize TS-1M around four key aspects:
 
 For more details, kindly refer to our [paper](https://XXX) and [project page](https://guoyangzhao.github.io/projects/ts1m/). :rocket:
 
+## :inbox_tray: Dataset Download
+
+TS-1M is now publicly available for research and academic use. You can access the dataset from the following platforms:
+
+- [![Baidu Netdisk](https://img.shields.io/badge/Download-Baidu_Netdisk-blue?style=flat-square)](https://pan.baidu.com/s/1RGk0TLnSgfCjxEGOI-fZXg?pwd=fjsy)
+- [![Google Drive](https://img.shields.io/badge/Download-Google_Drive-success?style=flat-square&logo=google-drive)](https://drive.google.com/drive/folders/1dmpK4e47-LO04K4gGyhBFgHF5t15fkus?usp=sharing)
+- [![Kaggle](https://img.shields.io/badge/Download-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/guoyangzhao/ts-1m-datset)
+
+> **Note:**  
+> Please refer to the `class-mapping.txt` file for the full category definitions and class ordering.
 
 ### :books: Citation 
 
