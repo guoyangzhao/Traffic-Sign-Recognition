@@ -74,7 +74,7 @@ XXX
   - [Main Results](#one-main-results)
   - [Real-World Applications](#two-real-world-applications)
   - [Effect on Autonomous Driving](#three-effect-on-autonomous-driving)
-- [**6. Acknowledgements**](#6-acknowledgements)
+- [**5. Acknowledgements**](#6-acknowledgements)
 
 
 
