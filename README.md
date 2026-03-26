@@ -143,15 +143,15 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 
 | Dataset | Region | Classes | Semantic | Examples | Year | Source |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| `STS` | Sverige | 20 | ✓ | 5,582 | 2011 | - |
-| `LISA` | America | 47 | ✓ | 7,855 | 2012 | - |
+| `STS` | Sverige | 20 | ✓ | 5,582 | 2011 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/) |
+| `LISA` | America | 47 | ✓ | 7,855 | 2012 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://git-disl.github.io/GTDLBench/datasets/lisa_traffic_sign_dataset/) |
 | `GTSRB` | Germany | 43 | ✗ | 51,839 | 2013 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://benchmark.ini.rub.de/gtsrb_news.html) |
-| `BelgiumTS` | Belgium | 62 | ✗ | 7,125 | 2014 | - |
+| `BelgiumTS` | Belgium | 62 | ✗ | 7,125 | 2014 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/abhi8923shriv/belgium-ts) |
 | `TT100K` | China | 127 | ✗ | 30,000 | 2016 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://cg.cs.tsinghua.edu.cn/traffic-sign/) |
-| `RTSD` | Russia | 106 | ✗ | 105,509 | 2016 | - |
+| `RTSD` | Russia | 106 | ✗ | 105,509 | 2016 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://graphics.cs.msu.ru/projects/traffic-sign-recognition.html) |
 | `BrazilianTS` | Brazilian | 33 | ✓ | 3,351 | 2018 | [![GitHub](https://img.shields.io/badge/Data-GitHub-black?style=flat-square&logo=github)](https://github.com/hugos94/traffic-signs-database) |
 | `DFG` | Slovenia | 200 | ✗ | 13,239 | 2019 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.vicos.si/resources/dfg/) |
-| `ARTS` | America | 175 | ✗ | 36,187 | 2019 | - |
+| `ARTS` | America | 175 | ✗ | 36,187 | 2019 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://swshah.w3.uvm.edu/vail/datasets.php) |
 | `CanadaTS` | Canada | 39 | ✓ | 204 | 2019 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/stavanjoshi/road-signs-in-canada) |
 | `PolishTS` | Polish | 92 | ✗ | 21,044 | 2020 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/kasia12345/polish-traffic-signs-dataset) |
 | `TurkeyTS` | Turkey | 91 | ✗ | 21,249 | 2020 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/erdicem/traffic-sign-images-from-turkey) |
@@ -163,8 +163,8 @@ The data distribution follows a realistic **long-tail pattern**, enabling both l
 | `IndiaTS` | India | 85 | ✓ | 5,726 | 2022 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/sarangdilipjodh/indian-traffic-signs-prediction85-classes) |
 | `CTSRD` | China | 58 | ✗ | 5,998 | 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://nlpr.ia.ac.cn/pal/trafficdata/recognition.html) |
 | `VNTS` | Vietnam | 51 | ✗ | 7,784 | 2023 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/maitam/vietnamese-traffic-signs) |
-| `BanglaTS` | Bangla | 13 | ✓ | 8,386 | 2023 | - |
-| `PTSD` | Iran | 43 | ✓ | 16,421 | 2025 | - |
+| `BanglaTS` | Bangla | 13 | ✓ | 8,386 | 2023 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/tusher7575/traffic-sign-in-bangladesh) |
+| `PTSD` | Iran | 43 | ✓ | 16,421 | 2025 | [![Kaggle](https://img.shields.io/badge/Data-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/saraparsaseresht/persian-traffic-sign-dataset-ptsd) |
 | **`TS-1M (Train)`** | **World** | **454** | **✓** | **1,033,947** | **2025** | 🚀 *Ours* |
 | **`TS-1M (Test)`** | **World** | **454** | **✓** | **233,611** | **2025** | 🚀 *Ours* |
 
