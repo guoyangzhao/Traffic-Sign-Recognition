@@ -1,5 +1,5 @@
 [![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![arXiv](https://img.shields.io/badge/arXiv-2509.07996-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.07996-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.23034)
 ![Visitors](https://komarev.com/ghpvc/?username=worldbench&repo=awesome-3d-4d-world-models&label=Hello,%20Visitor%20&color=yellow&style=social)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/guoyangzhao/Traffic-Sign-Recognition/pulls)
 
@@ -39,8 +39,16 @@ TS-1M is now publicly available for research and academic use. You can access th
 ### :books: Citation 
 
 If you find this work helpful for your research, please kindly consider citing our papers:
-```bib
-XXX
+```bibtex
+@misc{zhao2026traffic,
+      title={Traffic Sign Recognition in Autonomous Driving: Dataset, Benchmark, and Field Experiment}, 
+      author={Guoyang Zhao and Weiqing Qi and Kai Zhang and Chenguang Zhang and Zeying Gong and Zhihai Bi and Kai Chen and Benshan Ma and Ming Liu and Jun Ma},
+      year={2026},
+      eprint={2603.23034},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.23034}, 
+}
 ```
 ```bibtex
 @inproceedings{zhao2025tsclip,
